@@ -9,9 +9,6 @@
       width: 675px;
    }   
  }
- #welcome-section {
-   // height: 100vh;
- }
  
 * {
    box-sizing: border-box;
@@ -136,18 +133,17 @@ img.icode-read {
    height: 120px;
    object-fit: fill;
 }
+
 .project-content {
    display: grid;
    grid-template-columns: 1fr 1fr;
    gap: 10px;
    justify-content: center;
-   border: 2px solid black;
 }
 .project-content > div {
    border: 5px solid #d0d0d5;
    font-size: 20px;
    background-color: rgb(234, 234, 197);
-   // color: white;
    margin: 5px;
    padding: 10px;
 }

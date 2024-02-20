@@ -158,7 +158,6 @@ img.icode-read {
   grid-template-columns: 1fr 1fr;
   gap: 10px;
   justify-content: center;
-  border: 2px solid black;
 }
 
 .project-content > div {
